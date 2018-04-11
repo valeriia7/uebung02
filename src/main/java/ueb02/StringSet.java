@@ -13,6 +13,7 @@ interface StringSet {
 	 */
 	boolean contains(String s);
 
+
 	/**
 	 * Entfernt ein Element aus dem Set; wirft eine NoSuchElementException
 	 * wenn das Element nicht enthalten war.
